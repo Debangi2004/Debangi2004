@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
-- 👨‍💻 All of my projects are available at [t [https://debangighatak.netlify.app/](t [https://debangighatak.netlify.app/)
+- 👨‍💻 All of my projects are available at https://debangighatak.netlify.app/
 
 - 💬 Ask me about **Frontend Development , Data Science and DSA**
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/debangi-ghatak-d777999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debangi-ghatak-d777999" height="30" width="40" /></a>
 <a href="https://instagram.com/debangi_ghatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debangi_ghatak" height="30" width="40" /></a>
-<a href="https://dribbble.com/debangi ghatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="debangi ghatak" height="30" width="40" /></a>
+<a href="https://dribbble.com/daisy79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="debangi ghatak" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/DEBANGI-GHATAK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debangi ghatak" height="30" width="40" /></a>
 </p>
 
