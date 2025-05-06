@@ -16,7 +16,8 @@
 
 - 💬 Ask me about **Frontend Development , Data Science and DSA**
 
-- 📫 How to reach me **22053154@kiit.ac.in**
+- 📫 Professional Email ** debangighatak@gmail.com**
+- 📫 University Email **22053154@kiit.ac.in**
 
 - 📄 Know about my experiences https://docs.google.com/document/d/1DQALqYZej5PTEzZICk-ipFrRzIONQDnj/edit?usp=sharing&ouid=111673758770889414093&rtpof=true&sd=true
 
