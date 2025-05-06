@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Debangi Ghatak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Computer Science Engineering student at KIIT University, passionate about creating innovative solutions at the intersection of web development and data science. With expertise in full-stack development and machine learning, I focus on building applications that combine beautiful interfaces with powerful functionality.</h3>
 
 <img align="right" alt="coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"> 
 
@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
-- 👨‍💻 All of my projects are available at https://debangighatak.netlify.app/
+- 👨‍💻 All of my projects are available at https://debangiportfolio.vercel.app/
 
 - 💬 Ask me about **Frontend Development , Data Science and DSA**
 
 - 📫 How to reach me **22053154@kiit.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ahcHkz_5n7DmBCz-AIP6sALbQ_u3Z4kQekBrEBT-kGc/edit?usp=sharing](https://docs.google.com/document/d/1ahcHkz_5n7DmBCz-AIP6sALbQ_u3Z4kQekBrEBT-kGc/edit?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1DQALqYZej5PTEzZICk-ipFrRzIONQDnj/edit?usp=sharing&ouid=111673758770889414093&rtpof=true&sd=true
 
 - ⚡ Fun fact **I feel tranquility in travelling.**
 
