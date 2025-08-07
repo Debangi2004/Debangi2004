@@ -1,5 +1,5 @@
 
-<h1>👋 Hi, I'm Debangi Ghatak</h1>
+<h1>💟 Hi, I'm Debangi Ghatak</h1>
 
 Hey, I’m Debangi Ghatak — I train machines to think, build backend systems that whisper efficiency, and decode patterns like puzzles. I love when code clicks like poetry. Currently exploring Deep Learning, one curious neuron at a time. I speak Python like a native, thrive in FastAPI, and containerize my ideas in Docker. When I’m not busy talking to algorithms, I’m probably chasing sunsets in places Google Maps forgot.
 
