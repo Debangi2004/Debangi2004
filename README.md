@@ -21,6 +21,6 @@ Hey, I’m Debangi Ghatak — I train machines to think, build backend systems t
 ![](https://github-contributor-stats.vercel.app/api?username=Debangi2004&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Debangi2004&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Debangi2004&icon=0&color=FF1493)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
